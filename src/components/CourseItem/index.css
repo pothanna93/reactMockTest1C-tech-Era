@@ -1,0 +1,38 @@
+.course-div {
+  min-height: 100vh;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.course-success-div {
+  display: flex;
+
+  height: 560px;
+  width: 1140px;
+  border-radius: 12px;
+  box-shadow: 0px 0px 5px 0px;
+}
+.logo-course {
+  width: 460px;
+}
+.description-div {
+  display: flex;
+  margin: 30px;
+  flex-direction: column;
+}
+.course-name {
+  font-size: 34px;
+  font-weight: 600;
+  font-family: 'Roboto';
+  color: #1e293b;
+}
+.course-description {
+  font-size: 22px;
+  line-height: 2.1;
+  color: #475569;
+  font-weight: 400;
+  font-family: 'Roboto';
+  padding-top: 0px;
+  margin-top: 0px;
+}

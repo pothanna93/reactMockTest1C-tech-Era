@@ -1,0 +1,12 @@
+.header-div {
+  background-color: #f1f5f9;
+  width: 100%;
+  padding-left: 100px;
+  padding-top: 16px;
+  padding-bottom: 16px;
+}
+
+.header-logo {
+  width: 180px;
+  height: 60px;
+}
